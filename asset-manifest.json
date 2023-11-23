@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sak45/githubpages.git/static/css/main.882918e0.css",
+    "main.js": "/sak45/githubpages.git/static/js/main.9278f7a6.js",
+    "index.html": "/sak45/githubpages.git/index.html",
+    "main.882918e0.css.map": "/sak45/githubpages.git/static/css/main.882918e0.css.map",
+    "main.9278f7a6.js.map": "/sak45/githubpages.git/static/js/main.9278f7a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.882918e0.css",
+    "static/js/main.9278f7a6.js"
+  ]
+}
